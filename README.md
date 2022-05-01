@@ -18,4 +18,4 @@ The purpose and advantages of refactoring a code allows one to perfect their cod
 
 ## Disadvantages of Refactored Code
 
-A disadvantage of refactoring code may be due to the size of the code., if the code is too large it may be difficult to make it more compact. 
+A disadvantage of refactoring code may be due to the size of the code., if the code is too large it may be difficult to make it more compact and concise.
