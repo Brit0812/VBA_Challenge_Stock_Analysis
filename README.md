@@ -6,7 +6,7 @@
 
 The purpose of this challenge was to refactor, or edit, the VBA code initially used to help Steve understand the risk investment in the provided stock dataset, from 2017 and 2018. The refactored code is similar to that of the initial code, but it was improved to be more efficient. The start and end time for the code to run, had decreased significantly in turn increasing its efficiency. 
 
-![](resources/InputBox.png)
+![](resources/InputBox%20.png)
 
 ## Provided Data and Alterations
 
