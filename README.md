@@ -33,4 +33,4 @@ The advantage of refactoring the analysis code is that the macro run time decrea
 
 ## Disadvantages of Refactored Stock Analysis Code 
 
-There were no obvious disadvantages to refactoring the code. 
+There were no obvious disadvantages to refactoring this particular code. 
