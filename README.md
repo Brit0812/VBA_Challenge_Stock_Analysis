@@ -24,4 +24,4 @@ A disadvantage of refactoring code may be due to the size of the code., if the c
 
 
 
-![]resources/2017_All_Stocks_Analysis.png
+![](resources/2017_All_Stocks_Analysis.png)
