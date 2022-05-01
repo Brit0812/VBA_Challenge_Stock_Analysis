@@ -9,7 +9,7 @@ The purpose of this challenge was to refactor, or edit, the VBA code initially u
 
 ## Provided Data and Alterations
 
-The provided datasets include two datasheets with: twelve (12) stock ticker, issued stock date, opening price, highs and lows, closing price, adjusted close price, and volume. The goal is to filter through the data to understand the total volume and return by the ticker. To begin refactoring the code, the initial code was copied into the new sub and an input box was added, the activation of the new worksheets, and the addition of multiple components which is shown below.
+The provided datasets include two datasheets with: twelve (12) stock ticker, issued stock date, opening price, highs and lows, closing price, adjusted close price, and volume. The goal is to filter through the data to understand the total volume and return by the ticker. To begin refactoring the code: the initial code was copied into the new sub and an input box was added, the activation of the new worksheets, and the addition of multiple components which is shown below.
 
 ![](resources/InputBox%20.png)
 ![](resources/Refactored_code.png)
